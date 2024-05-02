@@ -1,0 +1,183 @@
+xcode-select --install\
+
+/bin/sh -c "$(curl -fsSL https://raw.githubusercontent.com/FullstackAcademy/developer-playbook/main/machine-setup.sh)"\
+
+/bin/sh -c "$(curl -fsSL https://raw.githubusercontent.com/FullstackAcademy/developer-playbook/main/machine-setup.sh)"
+pbcopy < ~/.ssh/id_ed25519.pub\
+
+/bin/sh -c "$(curl -fsSL https://raw.githubusercontent.com/FullstackAcademy/developer-playbook/main/machine-setup.sh)"\
+
+!
+ls
+ls -a
+cd Desktop
+mkdir github && cd github
+cd ..
+pwd
+cd github
+touch
+touch example. txt
+cd ..
+pwd 
+ls - a
+ls -a
+cd git
+cd github
+ git init
+ls -a
+pwd
+cd
+cd ..
+cd github
+c
+C
+git status
+pwd
+cd
+git branch
+[nano, vi, or vim] block03/code.js
+touch block03/code-touch.js\
+
+mkdir -p Coursework && cd Coursework && mkdir -p block02 && echo -e "console.log(\"Hello Fullstack)" >> block02/code.js
+touch block03/code-touch.js\
+
+ssh-keygen -t ed25519 -C "your_email@example.com"
+ssh-keygen -t ed25519 -C "zakmanzz@hotmail.com"
+ssh-keygen -t ed25519 -C "your_email@example.com"
+cd block04\
+
+clear
+ [nano, vi, or vim] block03/code.js
+ls blocl03
+ls block03
+nano block03/code.js
+ssh-keygen -t ed25519 -C "zakmanzz@hotmail.com"
+eval "$(ssh-agent -s)"\
+> Agent pid 59566
+eval "$(ssh-agent -s)"\
+> Agent pid 59566
+ssh-add --apple-use-keychain ~/.ssh/id_ed25519\
+
+ssh-add --apple-use-keychain ~/.ssh/id_ed25519\
+
+~/.ssh/config
+~/.ssh/config
+open ~/.ssh/config
+eval "$(ssh-agent -s)"
+ssh-add --apple-use-keychain ~/.ssh/id_ed25519\
+
+cd block04\
+
+node ./code04.js\
+
+pbcopy < ~/.ssh/id_ed25519.pub
+cd ~
+mkdir -p Coursework && cd Coursework && mkdir -p block02 && echo -e "console.log(\"Hello Fullstack)" >> block02/code.js
+ls
+mkdir block5
+cd block5
+touch index.html
+code . 
+cd desktop
+mkdir KTML && cd HTML
+git
+git init
+git status
+git remote add origin https://github.com/zazuniga/Block-5-Zoo-Problem-Module.git
+git branch -M mai
+git branch -M main
+git status
+git status
+git config --global user.name "zazuniga"
+git config --global user.email "zakmanzz@hotmail.com" 
+git status
+pwd
+git status
+git status
+git clone https://github.com/zazuniga/test-2.git
+ls
+cd test 2
+cd test-2
+code .
+git innit
+git init
+git branch -M main
+git remote add origin https://github.com/zazuniga/Block-6-Grocery_List.git
+git remote add origin https://github.com/zazuniga/Block-6-Grocery_List.git
+git push -u origin main
+node -v
+node app.js
+cd desktop
+mkdir awesome-scss && cd awesome-scss
+code . 
+touch index.html
+index.scss
+touch index.scss
+cd
+Type mkdir -p Coursework && cd Coursework && mkdir -p block02 && echo -e "console.log(\"Hello Fullstack)" >> block02/code.js\
+
+clear
+cd ~
+mkdir -p Coursework && cd Coursework && mkdir -p block02 && echo -e "console.log(\"Hello Fullstack)" >> block02/code.js
+cd ~
+cp -r block02 block03\
+
+cd Coursework
+mkdir -p Coursework && cd Coursework && mkdir -p block02 && echo -e "console.log(\"Hello Fullstack)" >> block02/code.js
+cp -r block02 block03\
+
+clear
+cd ~
+mkdir -p Coursework && cd Coursework && mkdir -p block02 && echo -e "console.log(\"Hello Fullstack)" >> block02/code.js
+clear
+cd Coursework
+mkdir -p Coursework && cd Coursework && mkdir -p block02 && echo -e "console.log(\"Hello Fullstack)" >> block02/code.js
+cler
+CLEAR
+cd Coursework\
+
+cp -r block02 block03\
+
+git init
+[200~git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/zazuniga/Block-10-Picasso-Painting.git
+git push -u origin main~
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/zazuniga/Block-10-Picasso-Painting.git\
+git push -u origin main
+cd ..
+mkdir conditionals && cd conditionals
+echo $PATH
+node app.js
+echo "console.log(1+1);" >> test-node.js
+npm --version
+test-node.js
+`test-node.js`
+'test-node.js'
+node index,js
+node index.js
+node array.js
+clear
+echo "# Unit-14-workshop-stats-" >> README.md\
+git init\
+git add README.md\
+git commit -m "first commit"\
+git branch -M main\
+git remote add origin https://github.com/zazuniga/Unit-14-workshop-stats-.git\
+git push -u origin main
+npm install -D tailwindcss\
+npx tailwindcss init
+/** @type {import('tailwindcss').Config} */\
+module.exports = {\
+  content: ["./src/**/*.{html,js}"],\
+  theme: {\
+    extend: {},\
+  },\
+  plugins: [],\
+}
+npm fund
+locate tailwind.config.js
+  sudo launchctl load -w /System/Library/LaunchDaemons/com.apple.locate.plist\
+

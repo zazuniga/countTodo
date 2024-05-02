@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=notepad
+MimeType=text/plain;
+Exec=env WINEPREFIX="/Applications/iLoL Open Beta 1.1.app/Contents/Resources/League of Legends.app/Contents/Resources" wine start /ProgIDOpen txtfile %f
+NoDisplay=true
+StartupNotify=true
+Icon=/tmp/{523E0CD7-028C-4A93-96C1-DD0873C73538}.icns

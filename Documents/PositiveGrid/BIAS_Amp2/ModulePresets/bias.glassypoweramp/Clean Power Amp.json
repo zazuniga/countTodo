@@ -1,0 +1,48 @@
+{
+  "name" : "Clean Poweramp",
+  "id" : "bias.glassypoweramp",
+  "params" : [
+    {
+      "id" : 0,
+      "value" : 0.001
+    },
+    {
+      "id" : 1,
+      "value" : 1
+    },
+    {
+      "id" : 2,
+      "value" : 0.6463172
+    },
+    {
+      "id" : 3,
+      "value" : 1
+    },
+    {
+      "id" : 4,
+      "value" : 0.5
+    },
+    {
+      "id" : 5,
+      "value" : 0.5
+    },
+    {
+      "id" : 6,
+      "value" : 0.7687664
+    },
+    {
+      "id" : 7,
+      "value" : 0.5
+    },
+    {
+      "id" : 8,
+      "value" : 0.3388478
+    },
+    {
+      "id" : 9,
+      "value" : 0.5
+    }
+  ],
+  "isActive" : true,
+  "selected" : "true"
+}

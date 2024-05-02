@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        const myButton = document.querySelector("button");
+
+        myButton.addEventListener("click", getDataFromChuckkNorrisServe)
+
+        async function getDataFromChuckkNorrisServe(){
+            try {
+                const data = await fetch("https://api.chucknorris.io/jokes/random"); 
+                const response = await response.json();
+                const joke = response.value;
+                    const p = document.createElement("p");
+                    p.textContent = joke;
+                    body.appendChild(p);
+                console.log(joke);
+            } catch (error) {
+            }
+        }
+    </script>
+    
+</body>
+</html>

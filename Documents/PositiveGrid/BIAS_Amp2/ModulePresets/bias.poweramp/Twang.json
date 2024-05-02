@@ -1,0 +1,68 @@
+{
+  "name" : "Twang",
+  "id" : "bias.poweramp",
+  "params" : [
+    {
+      "id" : 0,
+      "value" : 0.4
+    },
+    {
+      "id" : 1,
+      "value" : 1
+    },
+    {
+      "id" : 2,
+      "value" : 0.67349
+    },
+    {
+      "id" : 3,
+      "value" : 0.001
+    },
+    {
+      "id" : 4,
+      "value" : 0.001
+    },
+    {
+      "id" : 5,
+      "value" : 0.643621
+    },
+    {
+      "id" : 6,
+      "value" : 0.7704574
+    },
+    {
+      "id" : 7,
+      "value" : 0.8027341
+    },
+    {
+      "id" : 8,
+      "value" : 0.5
+    },
+    {
+      "id" : 9,
+      "value" : 0.5
+    },
+    {
+      "id" : 10,
+      "value" : 0.506195
+    },
+    {
+      "id" : 11,
+      "value" : 1
+    },
+    {
+      "id" : 12,
+      "value" : 1
+    },
+    {
+      "id" : 13,
+      "value" : 0.6111994
+    },
+    {
+      "id" : 14,
+      "value" : 0.6539044
+    }
+  ],
+  "isActive" : true,
+  "selected" : "true"
+}

@@ -1,0 +1,44 @@
+{
+  "name" : "Mid cut",
+  "id" : "bias.peaveyeq1",
+  "params" : [
+    {
+      "id" : 0,
+      "value" : 0.5272729
+    },
+    {
+      "id" : 1,
+      "value" : 0.5040574
+    },
+    {
+      "id" : 2,
+      "value" : 0.5973112
+    },
+    {
+      "id" : 3,
+      "value" : 0.2545455
+    },
+    {
+      "id" : 4,
+      "value" : 0.3090914
+    },
+    {
+      "id" : 5,
+      "value" : 0.5000001
+    },
+    {
+      "id" : 6,
+      "value" : 0.5454545
+    },
+    {
+      "id" : 7,
+      "value" : 0.4363637
+    },
+    {
+      "id" : 8,
+      "value" : 0.739063
+    }
+  ],
+  "isActive" : false,
+  "selected" : "true"
+}

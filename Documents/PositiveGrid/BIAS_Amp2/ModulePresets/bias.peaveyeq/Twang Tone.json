@@ -1,0 +1,44 @@
+{
+  "name" : "Twang Tone",
+  "id" : "bias.peaveyeq1",
+  "params" : [
+    {
+      "id" : 0,
+      "value" : 0.8090909
+    },
+    {
+      "id" : 1,
+      "value" : 0.7381036
+    },
+    {
+      "id" : 2,
+      "value" : 0.5818183
+    },
+    {
+      "id" : 3,
+      "value" : 0.481818
+    },
+    {
+      "id" : 4,
+      "value" : 0.509091
+    },
+    {
+      "id" : 5,
+      "value" : 0.4636363
+    },
+    {
+      "id" : 6,
+      "value" : 0.2636363
+    },
+    {
+      "id" : 7,
+      "value" : 0.290909
+    },
+    {
+      "id" : 8,
+      "value" : 0.5636365
+    }
+  ],
+  "isActive" : false,
+  "selected" : "true"
+}

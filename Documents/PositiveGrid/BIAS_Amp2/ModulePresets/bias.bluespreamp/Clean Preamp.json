@@ -1,0 +1,56 @@
+{
+   "id" : "bias.bluespreamp",
+   "isActive" : true,
+   "name" : "Clean Boost",
+   "params" : [
+      {
+         "id" : 0,
+         "value" : 0.5
+      },
+      {
+         "id" : 1,
+         "value" : 0.0
+      },
+      {
+         "id" : 2,
+         "value" : 0.0
+      },
+      {
+         "id" : 3,
+         "value" : 0.5
+      },
+      {
+         "id" : 4,
+         "value" : 0.0030000000260770321
+      },
+      {
+         "id" : 5,
+         "value" : 0.0
+      },
+      {
+         "id" : 6,
+         "value" : 0.0
+      },
+      {
+         "id" : 7,
+         "value" : 1.0
+      },
+      {
+         "id" : 8,
+         "value" : 0.5
+      },
+      {
+         "id" : 9,
+         "value" : 0.57999998331069946
+      },
+      {
+         "id" : 10,
+         "value" : 0.5
+      },
+      {
+         "id" : 11,
+         "value" : 0.0
+      }
+   ],
+   "selected" : "true"
+}

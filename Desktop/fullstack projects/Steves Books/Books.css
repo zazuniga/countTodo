@@ -1,0 +1,29 @@
+.books {
+  background-color: #FFFDD0;
+}
+.books h1 {
+  color: #8B0000;
+}
+.books p {
+  font-size: 16px;
+}
+.books .box, .books .message-box-two {
+  background-color: #f10000;
+}
+.books .box p, .books .message-box-two p {
+  background-color: #be0000;
+}
+
+.message-box {
+  border-radius: 10px;
+  background-color: #8B0000;
+  height: 20px;
+  width: 20px;
+}
+
+.message-box-two {
+  border-radius: 200px;
+  background-color: #8B0000;
+  height: 20px;
+  width: 20px;
+}/*# sourceMappingURL=Books.css.map */

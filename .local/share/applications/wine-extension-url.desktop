@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=rundll32
+MimeType=application/x-wine-extension-url;
+Exec=env WINEPREFIX="/Applications/iLoL Open Beta 1.1.app/Contents/Resources/League of Legends.app/Contents/Resources" wine start /ProgIDOpen InternetShortcut %f
+NoDisplay=true
+StartupNotify=true
+Icon=/tmp/{6862D141-248E-461B-8F25-4382DA59A46D}.icns

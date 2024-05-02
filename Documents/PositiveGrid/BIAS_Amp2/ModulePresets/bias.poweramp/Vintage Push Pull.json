@@ -1,0 +1,68 @@
+{
+  "name" : "Vintage Push Pull",
+  "id" : "bias.poweramp",
+  "params" : [
+    {
+      "id" : 0,
+      "value" : 0.6
+    },
+    {
+      "id" : 1,
+      "value" : 1
+    },
+    {
+      "id" : 2,
+      "value" : 0.5865403
+    },
+    {
+      "id" : 3,
+      "value" : 0.001
+    },
+    {
+      "id" : 4,
+      "value" : 0
+    },
+    {
+      "id" : 5,
+      "value" : 0.495184
+    },
+    {
+      "id" : 6,
+      "value" : 0.6044922
+    },
+    {
+      "id" : 7,
+      "value" : 0.6279297
+    },
+    {
+      "id" : 8,
+      "value" : 0.5
+    },
+    {
+      "id" : 9,
+      "value" : 0.5
+    },
+    {
+      "id" : 10,
+      "value" : 0.6390075
+    },
+    {
+      "id" : 11,
+      "value" : 0
+    },
+    {
+      "id" : 12,
+      "value" : 0
+    },
+    {
+      "id" : 13,
+      "value" : 0.440301
+    },
+    {
+      "id" : 14,
+      "value" : 0.5770243
+    }
+  ],
+  "isActive" : true,
+  "selected" : "true"
+}

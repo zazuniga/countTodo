@@ -1,0 +1,24 @@
+{
+  "name" : "Classic Clean",
+  "id" : "bias.tonestack",
+  "params" : [
+    {
+      "id" : 0,
+      "value" : 0
+    },
+    {
+      "id" : 1,
+      "value" : 0.5638117
+    },
+    {
+      "id" : 2,
+      "value" : 0.8046154
+    },
+    {
+      "id" : 3,
+      "value" : 0.5540024
+    }
+  ],
+  "isActive" : true,
+  "selected" : "true"
+}

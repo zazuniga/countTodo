@@ -1,0 +1,44 @@
+{
+   "id" : "bias.transformer",
+   "isActive" : true,
+   "name" : "Solid State",
+   "params" : [
+      {
+         "id" : 0,
+         "value" : 1.0
+      },
+      {
+         "id" : 1,
+         "value" : 0.0
+      },
+      {
+         "id" : 2,
+         "value" : 0.50
+      },
+      {
+         "id" : 3,
+         "value" : 0.3400000035762787
+      },
+      {
+         "id" : 4,
+         "value" : 0.6483200192451477
+      },
+      {
+         "id" : 5,
+         "value" : 0.7142580151557922
+      },
+      {
+         "id" : 6,
+         "value" : 0.4681639969348907
+      },
+      {
+         "id" : 7,
+         "value" : 0.3602975904941559
+      },
+      {
+         "id" : 8,
+         "value" : 0.0
+      }
+   ],
+   "selected" : "true"
+}

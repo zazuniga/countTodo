@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=winhlp32
+MimeType=application/x-wine-extension-hlp;
+Exec=env WINEPREFIX="/Applications/iLoL Open Beta 1.1.app/Contents/Resources/League of Legends.app/Contents/Resources" wine start /ProgIDOpen hlpfile %f
+NoDisplay=true
+StartupNotify=true
+Icon=/tmp/{4A624615-39CA-4FF5-A808-260FE4AF3D64}.icns

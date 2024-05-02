@@ -1,0 +1,68 @@
+{
+  "name" : "Modern Presence",
+  "id" : "bias.poweramp",
+  "params" : [
+    {
+      "id" : 0,
+      "value" : 0.6
+    },
+    {
+      "id" : 1,
+      "value" : 1
+    },
+    {
+      "id" : 2,
+      "value" : 0.6127068
+    },
+    {
+      "id" : 3,
+      "value" : 0.001
+    },
+    {
+      "id" : 4,
+      "value" : 0.002
+    },
+    {
+      "id" : 5,
+      "value" : 0.495184
+    },
+    {
+      "id" : 6,
+      "value" : 0.5
+    },
+    {
+      "id" : 7,
+      "value" : 0.5
+    },
+    {
+      "id" : 8,
+      "value" : 0.5
+    },
+    {
+      "id" : 9,
+      "value" : 0.5
+    },
+    {
+      "id" : 10,
+      "value" : 0.506195
+    },
+    {
+      "id" : 11,
+      "value" : 1
+    },
+    {
+      "id" : 12,
+      "value" : 1
+    },
+    {
+      "id" : 13,
+      "value" : 0.7182965
+    },
+    {
+      "id" : 14,
+      "value" : 0.7710888
+    }
+  ],
+  "isActive" : true,
+  "selected" : "true"
+}

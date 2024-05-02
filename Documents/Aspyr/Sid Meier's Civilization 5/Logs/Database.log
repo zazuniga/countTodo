@@ -1,0 +1,48 @@
+[362521.602] columns StrategicViewType, TileType are not unique
+[362521.602] While executing - 'INSERT INTO ArtDefine_StrategicView(StrategicViewType, TileType, Asset) VALUES(?,?,?)'
+[362527.345] columns StrategicViewType, TileType are not unique
+[362527.345] While executing - 'INSERT INTO ArtDefine_StrategicView(StrategicViewType, TileType, Asset) VALUES(?,?,?)'
+[362534.877] 
+-- SQLite Memory Statistics --
+Memory Usage:
+		[Cur]		[Max]
+Malloc:		5678480		13047932
+PageCache:	6		12
+LookAside:	0		0
+Scratch:	0		1
+
+Static Buffer Overflows:
+		[TooLarge]	[NoSpace]
+PageCache:	5228580		9680720
+Scratch:	0		0
+
+Largest Allocations:
+Malloc:		130560
+PageCache:	1172
+Scratch:	5128
+
+Prepared Statements:
+Current:		6
+------------------------------
+[362536.372] 
+-- SQLite Memory Statistics --
+Memory Usage:
+		[Cur]		[Max]
+Malloc:		5679660		13047932
+PageCache:	6		12
+LookAside:	0		0
+Scratch:	0		1
+
+Static Buffer Overflows:
+		[TooLarge]	[NoSpace]
+PageCache:	5229760		9680720
+Scratch:	0		0
+
+Largest Allocations:
+Malloc:		130560
+PageCache:	1172
+Scratch:	5128
+
+Prepared Statements:
+Current:		6
+------------------------------

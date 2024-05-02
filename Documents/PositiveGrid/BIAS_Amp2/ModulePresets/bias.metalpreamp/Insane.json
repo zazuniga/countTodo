@@ -1,0 +1,56 @@
+{
+  "name" : "Metal Lead",
+  "id" : "bias.metalpreamp",
+  "params" : [
+    {
+      "id" : 0,
+      "value" : 0.5
+    },
+    {
+      "id" : 1,
+      "value" : 0.5
+    },
+    {
+      "id" : 2,
+      "value" : 0.9140625
+    },
+    {
+      "id" : 3,
+      "value" : 0.7862905
+    },
+    {
+      "id" : 4,
+      "value" : 0.5888351
+    },
+    {
+      "id" : 5,
+      "value" : 0.65
+    },
+    {
+      "id" : 6,
+      "value" : 0.3945312
+    },
+    {
+      "id" : 7,
+      "value" : 0.5
+    },
+    {
+      "id" : 8,
+      "value" : 0.59375
+    },
+    {
+      "id" : 9,
+      "value" : 0.7358822
+    },
+    {
+      "id" : 10,
+      "value" : 0.4433853
+    },
+    {
+      "id" : 11,
+      "value" : 0.4445989
+    }
+  ],
+  "isActive" : true,
+  "selected" : "true"
+}

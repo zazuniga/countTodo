@@ -1,0 +1,44 @@
+{
+  "name" : "Chunk bass boost",
+  "id" : "bias.peaveyeq1",
+  "params" : [
+    {
+      "id" : 0,
+      "value" : 0.2090909
+    },
+    {
+      "id" : 1,
+      "value" : 0.7818183
+    },
+    {
+      "id" : 2,
+      "value" : 0.2636364
+    },
+    {
+      "id" : 3,
+      "value" : 0.5181819
+    },
+    {
+      "id" : 4,
+      "value" : 0.2272727
+    },
+    {
+      "id" : 5,
+      "value" : 0.2636363
+    },
+    {
+      "id" : 6,
+      "value" : 0.5727273
+    },
+    {
+      "id" : 7,
+      "value" : 0.5545456
+    },
+    {
+      "id" : 8,
+      "value" : 0.6472682
+    }
+  ],
+  "isActive" : false,
+  "selected" : "true"
+}

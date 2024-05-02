@@ -1,0 +1,44 @@
+{
+  "name" : "Slight push",
+  "id" : "bias.peaveyeq1",
+  "params" : [
+    {
+      "id" : 0,
+      "value" : 0.5090908
+    },
+    {
+      "id" : 1,
+      "value" : 0.5
+    },
+    {
+      "id" : 2,
+      "value" : 0.6272727
+    },
+    {
+      "id" : 3,
+      "value" : 0.6454544
+    },
+    {
+      "id" : 4,
+      "value" : 0.3181819
+    },
+    {
+      "id" : 5,
+      "value" : 0.3727272
+    },
+    {
+      "id" : 6,
+      "value" : 0.5000001
+    },
+    {
+      "id" : 7,
+      "value" : 0.5545456
+    },
+    {
+      "id" : 8,
+      "value" : 0.5090911
+    }
+  ],
+  "isActive" : false,
+  "selected" : "true"
+}

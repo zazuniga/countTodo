@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<root>
+    <VStringMap name="ui">
+        <tuple key="browser_filter_artist" value="" />
+        <tuple key="browser_filter_collection" value="" />
+        <tuple key="browser_filter_category" value="Lead" />
+        <tuple key="browser_filter_favourite" value="" />
+        <tuple key="ui_scale" value="3" />
+        <tuple key="browser_visible" value="1" />
+        <tuple key="active_panel" value="1" />
+        <tuple key="stylesheet_dx" value="0" />
+        <tuple key="easy_page" value="0" />
+        <tuple key="midimap_mode" value="0" />
+    </VStringMap>
+</root>

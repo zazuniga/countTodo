@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(32, 32, 116); 
+ }
+ h1{
+    text-decoration: underline;
+    text-align: center;
+    color: rgb(120, 153, 207);
+ }
+ p {
+    color: rgb(85, 174, 85);
+ }
+ 

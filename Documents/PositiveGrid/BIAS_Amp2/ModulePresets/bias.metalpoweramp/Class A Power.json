@@ -1,0 +1,52 @@
+{
+  "name" : "Insane Power",
+  "id" : "bias.metalpoweramp",
+  "params" : [
+    {
+      "id" : 0,
+      "value" : 0.5
+    },
+    {
+      "id" : 1,
+      "value" : 0.5
+    },
+    {
+      "id" : 2,
+      "value" : 0.5
+    },
+    {
+      "id" : 3,
+      "value" : 0.7907589
+    },
+    {
+      "id" : 4,
+      "value" : 0.5712696
+    },
+    {
+      "id" : 5,
+      "value" : 0.5
+    },
+    {
+      "id" : 6,
+      "value" : 0.5
+    },
+    {
+      "id" : 7,
+      "value" : 0.5351562
+    },
+    {
+      "id" : 8,
+      "value" : 0.5
+    },
+    {
+      "id" : 9,
+      "value" : 0.5683594
+    },
+    {
+      "id" : 10,
+      "value" : 0.3909312
+    }
+  ],
+  "isActive" : true,
+  "selected" : "true"
+}

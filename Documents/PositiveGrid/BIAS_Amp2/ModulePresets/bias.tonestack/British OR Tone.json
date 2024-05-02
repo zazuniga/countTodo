@@ -1,0 +1,24 @@
+{
+  "name" : "British OR Tone",
+  "id" : "bias.tonestack",
+  "params" : [
+    {
+      "id" : 0,
+      "value" : 0.005
+    },
+    {
+      "id" : 1,
+      "value" : 0.658829
+    },
+    {
+      "id" : 2,
+      "value" : 0.3300784
+    },
+    {
+      "id" : 3,
+      "value" : 0.6967531
+    }
+  ],
+  "isActive" : true,
+  "selected" : "true"
+}

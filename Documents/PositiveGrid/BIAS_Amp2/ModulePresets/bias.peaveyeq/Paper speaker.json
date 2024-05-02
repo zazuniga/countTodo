@@ -1,0 +1,44 @@
+{
+  "name" : "Paper speaker",
+  "id" : "bias.peaveyeq1",
+  "params" : [
+    {
+      "id" : 0,
+      "value" : 0.4727271
+    },
+    {
+      "id" : 1,
+      "value" : 0.5
+    },
+    {
+      "id" : 2,
+      "value" : 0.5
+    },
+    {
+      "id" : 3,
+      "value" : 0.4181818
+    },
+    {
+      "id" : 4,
+      "value" : 0.5181817
+    },
+    {
+      "id" : 5,
+      "value" : 0.2545452
+    },
+    {
+      "id" : 6,
+      "value" : 0.1363636
+    },
+    {
+      "id" : 7,
+      "value" : 0.281818
+    },
+    {
+      "id" : 8,
+      "value" : 0.7
+    }
+  ],
+  "isActive" : false,
+  "selected" : "true"
+}

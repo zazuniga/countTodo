@@ -1,0 +1,13 @@
+{
+	"IrFileCategory": [{
+			"category_folder": "factory",
+			"category_name": "Factory",
+			"display_order": 0
+		},
+		{
+			"category_folder": "custom",
+			"category_name": "Custom",
+			"display_order": 1
+		}
+	]
+}

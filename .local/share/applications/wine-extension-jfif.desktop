@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Wine Internet Explorer
+MimeType=image/jpeg;
+Exec=env WINEPREFIX="/Applications/iLoL Open Beta 1.1.app/Contents/Resources/League of Legends.app/Contents/Resources" wine start /ProgIDOpen pjpegfile %f
+NoDisplay=true
+StartupNotify=true
+Icon=/tmp/{3EC0F441-F6B6-47ED-B6C8-4EE67272E7D2}.icns

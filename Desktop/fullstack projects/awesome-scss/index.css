@@ -1,0 +1,23 @@
+.container h1 {
+  color: green;
+}
+.container p {
+  font-size: 30px;
+}
+.container .box, .container .message-box-two {
+  background-color: aquamarine;
+}
+
+.message-box {
+  border-radius: 10;
+  background-color: green;
+  height: 20px;
+  width: 20px;
+}
+
+.message-box-two {
+  border-radius: 10;
+  background-color: green;
+  height: 20px;
+  width: 20px;
+}/*# sourceMappingURL=index.css.map */

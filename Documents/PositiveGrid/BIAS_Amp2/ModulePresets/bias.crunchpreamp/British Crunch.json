@@ -1,0 +1,76 @@
+{
+  "name" : "British Crunch",
+  "id" : "bias.crunchpreamp",
+  "params" : [
+    {
+      "id" : 0,
+      "value" : 0.5
+    },
+    {
+      "id" : 1,
+      "value" : 0.1682091
+    },
+    {
+      "id" : 2,
+      "value" : 0.5
+    },
+    {
+      "id" : 3,
+      "value" : 0.59375
+    },
+    {
+      "id" : 4,
+      "value" : 0.5761719
+    },
+    {
+      "id" : 5,
+      "value" : 0.5
+    },
+    {
+      "id" : 6,
+      "value" : 0.5
+    },
+    {
+      "id" : 7,
+      "value" : 0.5
+    },
+    {
+      "id" : 8,
+      "value" : 0.5878906
+    },
+    {
+      "id" : 9,
+      "value" : 0.5
+    },
+    {
+      "id" : 10,
+      "value" : 1
+    },
+    {
+      "id" : 11,
+      "value" : 0.2734789
+    },
+    {
+      "id" : 12,
+      "value" : 0.5
+    },
+    {
+      "id" : 13,
+      "value" : 0.5
+    },
+    {
+      "id" : 14,
+      "value" : 0.07567579
+    },
+    {
+      "id" : 15,
+      "value" : 0.5
+    },
+    {
+      "id" : 16,
+      "value" : 0.8455282
+    }
+  ],
+  "isActive" : true,
+  "selected" : "true"
+}

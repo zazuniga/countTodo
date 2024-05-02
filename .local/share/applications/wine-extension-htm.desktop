@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=winebrowser
+MimeType=text/html;
+Exec=env WINEPREFIX="/Applications/iLoL Open Beta 1.1.app/Contents/Resources/League of Legends.app/Contents/Resources" wine start /ProgIDOpen htmlfile %f
+NoDisplay=true
+StartupNotify=true
+Icon=/tmp/{232B5D6B-5518-4329-9E78-BD14A8BD6DBC}.icns

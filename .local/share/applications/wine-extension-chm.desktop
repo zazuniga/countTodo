@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=hh
+MimeType=application/x-wine-extension-chm;
+Exec=env WINEPREFIX="/Applications/iLoL Open Beta 1.1.app/Contents/Resources/League of Legends.app/Contents/Resources" wine start /ProgIDOpen chm.file %f
+NoDisplay=true
+StartupNotify=true
+Icon=/tmp/{6E69885C-713B-4972-B3C0-FF92A99ACADD}.icns

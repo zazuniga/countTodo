@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=wordpad
+MimeType=application/x-wine-extension-wri;
+Exec=env WINEPREFIX="/Applications/iLoL Open Beta 1.1.app/Contents/Resources/League of Legends.app/Contents/Resources" wine start /ProgIDOpen wrifile %f
+NoDisplay=true
+StartupNotify=true
+Icon=/tmp/{56FACFC6-EFED-471C-9227-195AF3EDAD39}.icns

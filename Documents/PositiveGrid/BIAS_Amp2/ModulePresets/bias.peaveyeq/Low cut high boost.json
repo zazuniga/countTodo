@@ -1,0 +1,44 @@
+{
+  "name" : "Low cut high boost",
+  "id" : "bias.peaveyeq1",
+  "params" : [
+    {
+      "id" : 0,
+      "value" : 0.3818182
+    },
+    {
+      "id" : 1,
+      "value" : 0.2
+    },
+    {
+      "id" : 2,
+      "value" : 0.3727273
+    },
+    {
+      "id" : 3,
+      "value" : 0.5727273
+    },
+    {
+      "id" : 4,
+      "value" : 0.5181817
+    },
+    {
+      "id" : 5,
+      "value" : 0.5545453
+    },
+    {
+      "id" : 6,
+      "value" : 0.7454544
+    },
+    {
+      "id" : 7,
+      "value" : 0.6272728
+    },
+    {
+      "id" : 8,
+      "value" : 0.7
+    }
+  ],
+  "isActive" : false,
+  "selected" : "true"
+}

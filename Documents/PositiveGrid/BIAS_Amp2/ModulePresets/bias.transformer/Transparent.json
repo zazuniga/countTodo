@@ -1,0 +1,44 @@
+{
+   "id" : "bias.transformer",
+   "isActive" : true,
+   "name" : "Transparent",
+   "params" : [
+      {
+         "id" : 0,
+         "value" : 0.0
+      },
+      {
+         "id" : 1,
+         "value" : 0.0
+      },
+      {
+         "id" : 2,
+         "value" : 0.50
+      },
+      {
+         "id" : 3,
+         "value" : 0.4274863004684448
+      },
+      {
+         "id" : 4,
+         "value" : 0.6416013240814209
+      },
+      {
+         "id" : 5,
+         "value" : 0.7142580151557922
+      },
+      {
+         "id" : 6,
+         "value" : 0.6352537870407104
+      },
+      {
+         "id" : 7,
+         "value" : 0.4505469799041748
+      },
+      {
+         "id" : 8,
+         "value" : 0.0
+      }
+   ],
+   "selected" : "true"
+}

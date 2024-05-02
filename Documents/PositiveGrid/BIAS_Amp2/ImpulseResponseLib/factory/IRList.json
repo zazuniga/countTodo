@@ -1,0 +1,15 @@
+{
+  "IRFile": [{
+      "display_order": 0,
+      "ir_name": "Celestion Creamback Impossible mix.wav",
+      "ir_desc": "FCelestion Creamback Impossible mix",
+      "ir_uuid": "ECA5AED9-0F33-47FD-8E48-C90ED3F9B725"
+    },
+    {
+      "display_order": 1,
+      "ir_name": "Celestion G12H-75 Creamback 1x12 Heavy mix.wav",
+      "ir_desc": "Celestion G12H-75 Creamback 1x12 Heavy mix",
+      "ir_uuid": "BB42120B-8A58-4B94-BFD4-44DA7BC01FCC"
+    }
+  ]
+}

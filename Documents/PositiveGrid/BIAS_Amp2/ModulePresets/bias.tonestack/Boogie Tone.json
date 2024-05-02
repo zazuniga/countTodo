@@ -1,0 +1,24 @@
+{
+  "name" : "Boogie Tone",
+  "id" : "bias.tonestack",
+  "params" : [
+    {
+      "id" : 0,
+      "value" : 0.007
+    },
+    {
+      "id" : 1,
+      "value" : 0.658829
+    },
+    {
+      "id" : 2,
+      "value" : 0.299805
+    },
+    {
+      "id" : 3,
+      "value" : 0.585425
+    }
+  ],
+  "isActive" : true,
+  "selected" : "true"
+}

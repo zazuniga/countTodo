@@ -1,0 +1,52 @@
+{
+  "name" : "Thrashing Power",
+  "id" : "bias.metalpoweramp",
+  "params" : [
+    {
+      "id" : 0,
+      "value" : 1
+    },
+    {
+      "id" : 1,
+      "value" : 0.5
+    },
+    {
+      "id" : 2,
+      "value" : 0.5
+    },
+    {
+      "id" : 3,
+      "value" : 0.6279756
+    },
+    {
+      "id" : 4,
+      "value" : 0.4769275
+    },
+    {
+      "id" : 5,
+      "value" : 0.5
+    },
+    {
+      "id" : 6,
+      "value" : 1
+    },
+    {
+      "id" : 7,
+      "value" : 0.5932958
+    },
+    {
+      "id" : 8,
+      "value" : 0.5
+    },
+    {
+      "id" : 9,
+      "value" : 0.625
+    },
+    {
+      "id" : 10,
+      "value" : 0.4132872
+    }
+  ],
+  "isActive" : true,
+  "selected" : "true"
+}

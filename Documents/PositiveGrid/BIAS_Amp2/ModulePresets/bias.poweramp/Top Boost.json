@@ -1,0 +1,68 @@
+{
+  "name" : "Top Boost",
+  "id" : "bias.poweramp",
+  "params" : [
+    {
+      "id" : 0,
+      "value" : 0.6
+    },
+    {
+      "id" : 1,
+      "value" : 1
+    },
+    {
+      "id" : 2,
+      "value" : 0.591135
+    },
+    {
+      "id" : 3,
+      "value" : 0.001
+    },
+    {
+      "id" : 4,
+      "value" : 0.003
+    },
+    {
+      "id" : 5,
+      "value" : 0.495184
+    },
+    {
+      "id" : 6,
+      "value" : 0.4042968
+    },
+    {
+      "id" : 7,
+      "value" : 0.609375
+    },
+    {
+      "id" : 8,
+      "value" : 0.5
+    },
+    {
+      "id" : 9,
+      "value" : 0.5
+    },
+    {
+      "id" : 10,
+      "value" : 0.506195
+    },
+    {
+      "id" : 11,
+      "value" : 0
+    },
+    {
+      "id" : 12,
+      "value" : 0
+    },
+    {
+      "id" : 13,
+      "value" : 0.3864794
+    },
+    {
+      "id" : 14,
+      "value" : 0.3916016
+    }
+  ],
+  "isActive" : true,
+  "selected" : "true"
+}

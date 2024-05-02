@@ -1,0 +1,44 @@
+{
+  "name" : "Bass boost",
+  "id" : "bias.peaveyeq1",
+  "params" : [
+    {
+      "id" : 0,
+      "value" : 0.5090908
+    },
+    {
+      "id" : 1,
+      "value" : 0.7636364
+    },
+    {
+      "id" : 2,
+      "value" : 0.6727273
+    },
+    {
+      "id" : 3,
+      "value" : 0.5272728
+    },
+    {
+      "id" : 4,
+      "value" : 0.4999999
+    },
+    {
+      "id" : 5,
+      "value" : 0.5272727
+    },
+    {
+      "id" : 6,
+      "value" : 0.5363636
+    },
+    {
+      "id" : 7,
+      "value" : 0.5000001
+    },
+    {
+      "id" : 8,
+      "value" : 0.5636363
+    }
+  ],
+  "isActive" : false,
+  "selected" : "true"
+}

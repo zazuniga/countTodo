@@ -1,0 +1,291 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #2c5f2d; /* Forest green */
+    color: #f9f9f9; /* Off white */
+}
+
+.main {
+    padding: 20px;
+    min-height: 100vh;
+}
+
+.project {
+    margin-bottom: 20px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.header, .navbar, .footer {
+    background-color: #228b22; /* Forest green */
+    color: #f9f9f9; /* Off white */
+    padding: 20px;
+    text-align: center;
+}
+
+.footer {
+    border-top: 3px solid #f9f9f9;
+}
+
+h1 {
+    padding: 20px;
+    text-align: center;
+}
+
+.about-me-text {
+    font-size: 25px;
+}
+
+/* quote */
+.quote {
+    font-family: 'Comic Sans MS', sans-serif;
+    color: #f9f9f9;
+    font-size: 50px;
+    font-weight: 100;
+    text-shadow: 1px 1px 2px black;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    position: static;
+    padding: 20px;
+} 
+
+
+.project-header {
+    padding: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 20px;
+}
+
+.logo {
+    size: 30px;
+}
+
+/* Navbar styles */
+nav {
+    background-color: #228b22; /* light background color */
+    color: #f9f9f9; /* Text color */
+    padding: 20px 0; /* Top and bottom padding */
+    display: flex; /* Use flexbox for layout */
+    justify-content: space-between; /* Space elements evenly */
+    border-bottom: 3px solid #f9f9f9;
+}
+
+.navbar ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Title styles */
+h1 {
+    margin: 0; /* Remove default margins */
+    font-size: 24px; /* Font size */
+}
+
+/* Links styles */
+#contact a {
+    color: #fff; /* Text color for links */
+    text-decoration: none; /* Remove underline from links */
+    margin-left: 20px; /* Add space between links */
+    transition: color 0.3s; /* Smooth color transition */
+}
+
+#contact a:hover {
+    color: #ffc107; /* Change color on hover */
+}
+
+#contact a.active {
+    font-weight: bold; /* Style for the active link */
+}
+
+
+.section {
+    border-top: 3px;
+    color: #f9f9f9;
+    font-size: 16px;
+}
+
+/* about section */
+.about {
+    background-color: #091605;
+    padding: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 20px;
+    display: flow-root; 
+    margin-top: auto;
+    position: static;
+    padding: 20px;
+    height: auto;
+}
+.music {
+    margin: 0 24px 24px 24px;
+    height: 100px;
+    display: inline;
+}
+
+/* links */
+
+#links {
+    padding: 20px;
+    font-size: 20px;
+}
+
+.social-links {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.twitter {
+    background-image: url('https://i.pinimg.com/originals/7d/44/d5/7d44d55ead7dda48bd95632d92fb259d.png');
+}
+
+.facebook {
+    background-image: url('https://kpexteriors.com/wp-content/uploads/2018/10/facebook-logo-png-5a35528eaa4f08.7998622015134439826976.jpg');
+}
+
+.linkedin {
+    background-image: url('https://static.vecteezy.com/system/resources/previews/023/986/970/non_2x/linkedin-logo-linkedin-logo-transparent-linkedin-icon-transparent-free-free-png.png');
+}
+
+.social-links a {
+    display: inline-block;
+    margin: 0 10px;
+    width: 50px; /* Adjust width as needed */
+    height: 50px; /* Adjust height as needed */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* form */
+
+form {
+    width: 400px;
+    height: auto; 
+    margin-left: auto;
+    margin-right: auto;
+    float: center;
+}
+
+.label, input[type="text"], input[type="email"], input[type="submit"] {
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+input[type="text"], input[type="email"], input[type="submit"] {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+.container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
+
+/* images */
+
+.zak {
+    width: 200px;
+    height: auto; 
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+
+.guitar-pic {
+    display: inline;  
+    width: 150x;
+    height: 150px; 
+    float: right; 
+    
+}
+
+.camera-pic {
+    width: 200px;
+    height: auto; 
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+}
+
+.chef-pic {
+    width: 200px;
+    height: auto; 
+    margin-left: auto;
+    margin-right: auto;
+    float: right;
+}
+
+.metal-pic {
+    width: 200px;
+    height: auto; 
+    margin-left: auto;
+    margin-right: auto; 
+    float: right;
+}
+
+.graphic-design-pic {
+    width: 150px;
+    height: 100px; 
+    margin-left: auto;
+    margin-right: auto; 
+    float: right;
+}
+
+.rhkw-pic {
+    width: 200px;
+    height: auto; 
+    margin-right: auto; 
+    float: right;
+}
+
+/* media for different sizes */
+
+/* Desktop */
+@media (min-width: 1680px) {
+    .container {
+        width: 70%;
+    }
+}
+
+/* iPad */
+@media (min-width: 768px) and (max-width: 1024px) {
+    .container {
+        width: 90%;
+    }
+}
+
+/* Mobile */
+@media (max-width: 480px) {
+    .container {
+        width: 95%;
+    }
+}
+
+* {
+    box-sizing: border-box;
+}

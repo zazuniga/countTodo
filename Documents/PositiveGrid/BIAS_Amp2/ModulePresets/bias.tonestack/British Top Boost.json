@@ -1,0 +1,24 @@
+{
+  "name" : "British Top Boost",
+  "id" : "bias.tonestack",
+  "params" : [
+    {
+      "id" : 0,
+      "value" : 0.003
+    },
+    {
+      "id" : 1,
+      "value" : 0.623382
+    },
+    {
+      "id" : 2,
+      "value" : 0.4160936
+    },
+    {
+      "id" : 3,
+      "value" : 0.673143
+    }
+  ],
+  "isActive" : true,
+  "selected" : "true"
+}
